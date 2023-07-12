@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **eliza-wollinger/eliza-wollinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+🖖)](https://git.io/typing-svg)
+
+I'm a passionate software developer with a diverse background. While I haven't completed my degree yet, I have pursued two faculties: mechanical engineering and software engineering. I love developing new solutions in creative ways and have experience with Python, MatLAB and databases. I also have knowledge in JavaScript, as well as a background in design, UI/UX, and marketing.
+
+Let's embark on coding adventures together! ✨
