@@ -1,8 +1,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=EF946C&vCenter=true&random=false&width=1000&lines=Hello+there!+%F0%9F%96%96%F0%9F%8F%BB" alt="Typing SVG" />
 
-I'm a passionate software developer with a diverse background. While I haven't completed my degree yet, but I study mechanical and software engineering. I love developing new solutions in creative ways and have experience with Python, MatLAB and databases. I also have knowledge in JavaScript, as well as a background in design, UI/UX, and marketing.
+I'm a student of Mechanical Engineering and Software Engineering with a passion for code and creativity. I've had the exciting experience of working as a software developer and have honed my skills in Python, Matlab, and both SQL and NoSQL databases. I'm also familiar with web technologies like HTML, CSS, JavaScript, and various frameworks.
 
-Let's embark on coding adventures together! ✨
+Beyond coding, I've dabbled in the world of graphic design, working with tools such as Photoshop, Illustrator, Premiere, Figma, and more. I love to bridge the gap between technology and art, and I'm always exploring ways to make the digital world more visually appealing.
+
+I'm open to collaborating on interesting projects, so if you have any cool ideas or want to work together, feel free to reach out! Let's create something awesome together. ✨
 
 <p align="left">
   <a href="mailto:wollingereliza@gmail.comal" alt="Gmail" target="_blank">
