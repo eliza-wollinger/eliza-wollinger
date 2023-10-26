@@ -5,12 +5,12 @@ I'm a passionate software developer with a diverse background. While I haven't c
 Let's embark on coding adventures together! ✨
 
 <p align="left">
-  <a href="mailto:wollingereliza@gmail.comal" alt="Gmail">
+  <a href="mailto:wollingereliza@gmail.comal" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-EF6C6C?style=flat-square&labelColor=EF6C6C&logo=gmail&logoColor=white&mailto:wollingereliza@gmail.com" /></a>
 
-  <a href="https:www.linkedin.com/in/eliza-wollinger/" alt="LinkedIn">
+  <a href="https:www.linkedin.com/in/eliza-wollinger/" alt="LinkedIn" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-6CA0EF?style=flat-square&logo=Linkedin&logoColor=white&link='https:www.linkedin.com/in/eliza-wollinger/'" /></a>
 
-  <a href="https:www.behance.net/eliza-wollinger" alt="Behance">
+  <a href="https:www.behance.net/eliza-wollinger" alt="Behance" target="_blank">
   <img src="https://img.shields.io/badge/-Behance-6C79EF?style=flat-square&labelColor=6C79EF&logo=behance&logoColor=white&link=www.behance.net/eliza-wollinger"/></a>
 </p>
