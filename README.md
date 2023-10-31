@@ -10,6 +10,10 @@ I'm open to collaborating on interesting projects, so if you have any cool ideas
   <a href="mailto:wollingereliza@gmail.comal" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-EF6C6C?style=flat-square&labelColor=EF6C6C&logo=gmail&logoColor=white" /></a>
 
+  <a href="https://www.behance.net/eliza-wollinger" alt="Behance" target="_blank">
+  <img src="https://img.shields.io/badge/-Resume-EF946C?style=flat-square&labelColor=EF946C&logo=google-docs&logoColor=white&link=www.behance.net/eliza-wollinger">
+  </a>
+
   <a href="https://www.linkedin.com/in/eliza-wollinger/" alt="LinkedIn" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-6CA0EF?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/eliza-wollinger/" ></a>
 
