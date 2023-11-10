@@ -23,7 +23,4 @@ I'm open to collaborating on interesting projects, so if you have any cool ideas
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliza-wollinger&hide_progress=true)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eliza-wollinger&repo=method-era)](https://github.com/eliza-wollinger/method-era)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eliza-wollinger&repo=mechanical-vibrations)](https://github.com/eliza-wollinger/mechanical-vibrations)
-
