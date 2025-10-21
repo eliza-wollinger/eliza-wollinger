@@ -1,10 +1,10 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=EF946C&vCenter=true&random=false&width=1000&lines=Hello+there!+%F0%9F%96%96%F0%9F%8F%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=EF946C&vCenter=true&random=false&width=1000&lines=Hi,+I'm+Eliza+%F0%9F%96%96%F0%9F%8F%BB" alt="Typing SVG" />
 
-I'm a student of Mechanical Engineering and Software Engineering with a passion for code and creativity. I've had the exciting experience of working as a software developer and have honed my skills in Python, Matlab, and both SQL and NoSQL databases. I'm also familiar with web technologies like HTML, CSS, JavaScript, and various frameworks.
+I'm a Mechanical and Software Engineering student with 6 years of experience across 4 companies, working on automation, RPA, finite element simulations, and web dashboards.
 
-Beyond coding, I've dabbled in the world of graphic design, working with tools such as Photoshop, Illustrator, Premiere, Figma, and more. I love to bridge the gap between technology and art, and I'm always exploring ways to make the digital world more visually appealing.
+I work with **Python**, **MATLAB**, **SQL/NoSQL**, **Power Platform (Power Apps, Power Automate, Power BI)**, as well as web technologies (**HTML**, **CSS**, **JavaScript**) and design tools (**Photoshop**, **Illustrator**, **Figma**).
 
-I'm open to collaborating on interesting projects, so if you have any cool ideas or want to work together, feel free to reach out! Let's create something awesome together. ✨
+Passionate about bridging technology and creativity, I enjoy building solutions that are both functional and visually engaging. ✨
 
 <p align="left">
   <a href="mailto:wollingereliza@gmail.comal" alt="Gmail" target="_blank">
