@@ -1,10 +1,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=EF946C&vCenter=true&random=false&width=1000&lines=Hi,+I'm+Eliza+%F0%9F%96%96%F0%9F%8F%BB" alt="Typing SVG" />
 
-I'm a Mechanical and Software Engineering student with 6 years of experience across 4 companies, working on automation, RPA, finite element simulations, and web dashboards.
+I’m a Mechanical and Software Engineering student with over 6 years of experience working across multiple companies in data science, automation, RPA, finite element simulations, and web dashboard development.
 
-I work with **Python**, **MATLAB**, **SQL/NoSQL**, **Power Platform (Power Apps, Power Automate, Power BI)**, as well as web technologies (**HTML**, **CSS**, **JavaScript**) and design tools (**Photoshop**, **Illustrator**, **Figma**).
+I work with Python, MATLAB, SQL/NoSQL databases, and the Power Platform (Power Apps, Power Automate, Power BI), as well as web technologies (HTML, CSS, JavaScript) and design tools such as Photoshop, Illustrator, and Figma.
 
-Passionate about bridging technology and creativity, I enjoy building solutions that are both functional and visually engaging. ✨
+Passionate about connecting technology and creativity, I enjoy building solutions that are data-driven, functional, and visually engaging. ✨
 
 <p align="left">
   <a href="mailto:wollingereliza@gmail.comal" alt="Gmail" target="_blank">
@@ -20,7 +20,3 @@ Passionate about bridging technology and creativity, I enjoy building solutions 
   <img src="https://img.shields.io/badge/-Behance-6C79EF?style=flat-square&labelColor=6C79EF&logo=behance&logoColor=white&link=https://www.behance.net/eliza-wollinger">
   </a>
 </p>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliza-wollinger&hide_progress=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eliza-wollinger&repo=method-era)](https://github.com/eliza-wollinger/method-era)
